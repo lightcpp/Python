@@ -1,10 +1,11 @@
 eclipse.preferences.version=1
+encoding//Python/Practice/Cookie.py=utf-8
+encoding//Python/Practice/Regex.py=utf-8
+encoding//Python/Practice/UrlError.py=utf-8
+encoding//Python/Practice/Urllib.py=utf-8
+encoding//Python/Practice/ZhiHu.py=utf-8
 encoding//Python/Test.py=utf-8
-encoding//Python/Test/Cookie.py=utf-8
-encoding//Python/Test/Regex.py=utf-8
-encoding//Python/Test/UrlError.py=utf-8
-encoding//Python/Test/Urllib.py=utf-8
-encoding//Python/Test/ZhiHu.py=utf-8
 encoding//Python/jandan_spider/jandan_spider.py=utf-8
+encoding//Python/qiushibaike/qiushibaike.py=utf-8
 encoding/<project>=UTF-8
 encoding/setup.py=utf-8
