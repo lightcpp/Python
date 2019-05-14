@@ -57,7 +57,7 @@ if __name__ == '__main__':
     cookie = cookielib.MozillaCookieJar(filename)
     handler = urllib2.HTTPCookieProcessor(cookie)
     opener = urllib2.build_opener(handler)
-    values = {"username":"1342002963@qq.com","password":"zhihu134"}
+    values = {"username":"1342002963@qq.com","password":""}
     postdata = urllib.urlencode(values)
     #登录的URl
     loginUrl = "https://www.zhihu.com/signin"
